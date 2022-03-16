@@ -1,0 +1,17 @@
+/Users/m/Documents/github/PowerJob/powerjob-server/powerjob-server-remote/src/main/java/tech/powerjob/server/remote/transport/TransportService.java
+/Users/m/Documents/github/PowerJob/powerjob-server/powerjob-server-remote/src/main/java/tech/powerjob/server/remote/transport/impl/HttpTransporter.java
+/Users/m/Documents/github/PowerJob/powerjob-server/powerjob-server-remote/src/main/java/tech/powerjob/server/remote/transport/Transporter.java
+/Users/m/Documents/github/PowerJob/powerjob-server/powerjob-server-remote/src/main/java/tech/powerjob/server/remote/transport/starter/AkkaStarter.java
+/Users/m/Documents/github/PowerJob/powerjob-server/powerjob-server-remote/src/main/java/tech/powerjob/server/remote/server/redirector/RemoteRequestProcessor.java
+/Users/m/Documents/github/PowerJob/powerjob-server/powerjob-server-remote/src/main/java/tech/powerjob/server/remote/server/election/Ping.java
+/Users/m/Documents/github/PowerJob/powerjob-server/powerjob-server-remote/src/main/java/tech/powerjob/server/remote/server/redirector/DesignateServerAspect.java
+/Users/m/Documents/github/PowerJob/powerjob-server/powerjob-server-remote/src/main/java/tech/powerjob/server/remote/worker/WorkerClusterQueryService.java
+/Users/m/Documents/github/PowerJob/powerjob-server/powerjob-server-remote/src/main/java/tech/powerjob/server/remote/transport/impl/AkkaTransporter.java
+/Users/m/Documents/github/PowerJob/powerjob-server/powerjob-server-remote/src/main/java/tech/powerjob/server/remote/server/redirector/RemoteProcessReq.java
+/Users/m/Documents/github/PowerJob/powerjob-server/powerjob-server-remote/src/main/java/tech/powerjob/server/remote/worker/WorkerClusterManagerService.java
+/Users/m/Documents/github/PowerJob/powerjob-server/powerjob-server-remote/src/main/java/tech/powerjob/server/remote/worker/ClusterStatusHolder.java
+/Users/m/Documents/github/PowerJob/powerjob-server/powerjob-server-remote/src/main/java/tech/powerjob/server/remote/server/FriendRequestHandler.java
+/Users/m/Documents/github/PowerJob/powerjob-server/powerjob-server-remote/src/main/java/tech/powerjob/server/remote/server/redirector/DesignateServer.java
+/Users/m/Documents/github/PowerJob/powerjob-server/powerjob-server-remote/src/main/java/tech/powerjob/server/remote/transport/starter/VertXStarter.java
+/Users/m/Documents/github/PowerJob/powerjob-server/powerjob-server-remote/src/main/java/tech/powerjob/server/remote/server/ServerInfoService.java
+/Users/m/Documents/github/PowerJob/powerjob-server/powerjob-server-remote/src/main/java/tech/powerjob/server/remote/server/election/ServerElectionService.java
